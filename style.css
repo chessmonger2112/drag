@@ -1,5 +1,5 @@
-#jam{
-  position: relative;
+.draggable{
+  position: absolute;
 }
 body{
   background-color: green;
